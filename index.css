@@ -1,0 +1,17 @@
+h1 {
+    font-size: 30px;
+    color: blue;
+    margin-bottom: 10px;
+}
+
+.output {
+    width: 100px;
+    height: 100px;
+    color: #a90505;
+    border: 100px solid #029a28;
+    border-radius: 25% 50%;
+    align-content: center;
+    padding: 5px 5px;
+    text-align: center;
+    margin-left: 10px;
+}
